@@ -18,4 +18,4 @@ Push changes
 
 Using [Binder](https://mybinder.org/) share your notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korantom/svz-nbinteract-tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korantom/svz-nbinteract-tutorial/main)
