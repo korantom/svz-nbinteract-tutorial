@@ -1,0 +1,11 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-image
+jupyter
+jupyterlab
+nbconvert==5.6.1
+ipywidgets
+nbinteract
+improutils
