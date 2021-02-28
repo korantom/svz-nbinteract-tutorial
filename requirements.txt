@@ -9,3 +9,4 @@ nbconvert==5.6.1
 ipywidgets
 nbinteract
 improutils
+sklearn
